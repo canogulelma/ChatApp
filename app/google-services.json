@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "375958752801",
+    "project_id": "chatappone-8c947",
+    "storage_bucket": "chatappone-8c947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375958752801:android:9bcbc7753a8ee468f01d60",
+        "android_client_info": {
+          "package_name": "com.btsolutions.ChatAppOne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375958752801-e85v7m8ogt3r4eii2u9f9vsn8gllisbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHHGL9RZrIrkS5x1-6HYD2zHLota_r59M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375958752801-e85v7m8ogt3r4eii2u9f9vsn8gllisbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375958752801:android:80dea6f2b681b845f01d60",
+        "android_client_info": {
+          "package_name": "com.example.chatappone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375958752801-e85v7m8ogt3r4eii2u9f9vsn8gllisbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHHGL9RZrIrkS5x1-6HYD2zHLota_r59M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375958752801-e85v7m8ogt3r4eii2u9f9vsn8gllisbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
